@@ -136,6 +136,28 @@ header
     font-family: arial;
 }
 
+#imagem
+{
+    background-color: #000000;
+    width: 40%;
+}
+
+#blocotxt
+{
+    background-color: aqua;
+    width: 60%;
+}
+
+#palavra
+{
+
+}
+
+#txt
+{
+
+}
+
 @media(max-width: 1170px)
     {
         header
