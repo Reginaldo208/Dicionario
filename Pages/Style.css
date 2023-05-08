@@ -129,7 +129,12 @@ header
     font-size: 35px;
     margin-top: 0px;
     color: #ffffff;
-    
+
+}
+
+#t_palavra
+{
+    top: 0px;
 }
 
 @media(max-width: 1170px)
