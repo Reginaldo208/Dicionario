@@ -134,19 +134,21 @@ header
     padding: 20px;
     justify-content: center ;
     font-family: arial;
+    align-items: center;
 }
 
 #imagem
 {
     background-color: #000000;
     width: 40%;
-
+    height: 85%;
 }
 
 #blocotxt
 {
     background-color: aqua;
     width: 60%;
+    height: 85%;
 }
 
 #palavra
