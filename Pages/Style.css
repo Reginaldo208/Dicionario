@@ -137,6 +137,11 @@ header
     align-items: center;
 }
 
+#conteudo
+{
+    background-color: #ffffff;
+}
+
 #imagem
 {
     background-color: #000000;
