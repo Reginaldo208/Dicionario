@@ -141,6 +141,7 @@ header
 {
     background-color: #ffffff;
     display: flex;
+    height: 90%;
 }
 
 #imagem
