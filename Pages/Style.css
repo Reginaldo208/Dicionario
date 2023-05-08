@@ -150,6 +150,13 @@ header
     height: 85%;
 }
 
+.imagem
+{
+    width: auto;
+    height: auto;
+    max-width: 35px;
+}
+
 #blocotxt
 {
     background-color: aqua;
