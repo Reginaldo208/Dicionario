@@ -127,6 +127,9 @@ header
     background-color: #78DBFF;
     height: 40px;
     font-size: 35px;
+    margin-top: 0px;
+    color: #ffffff;
+    
 }
 
 @media(max-width: 1170px)
