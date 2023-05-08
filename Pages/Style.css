@@ -132,13 +132,7 @@ header
     position: sticky;
     border-radius: 20px;
     padding: 20px;
-    text-align: center;
-
-}
-
-#t_palavra
-{
-    top: 0px;
+    justify-content: center ;
 }
 
 @media(max-width: 1170px)
