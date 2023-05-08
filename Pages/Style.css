@@ -120,6 +120,11 @@ header
     height: auto;
 }
 
+#titulo
+{
+    
+}
+
 @media(max-width: 1170px)
     {
         header
