@@ -158,12 +158,12 @@ header
 
 #palavra
 {
-
+    background-color: red;
 }
 
 #txt
 {
-
+    background-color: orange;
 }
 
 @media(max-width: 1170px)
