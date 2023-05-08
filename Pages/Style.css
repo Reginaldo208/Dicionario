@@ -122,7 +122,11 @@ header
 
 #titulo
 {
-    
+    position: fixed;
+    width: 100%;
+    background-color: #78DBFF;
+    height: 40px;
+    font-size: 35px;
 }
 
 @media(max-width: 1170px)
