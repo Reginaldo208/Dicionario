@@ -142,7 +142,7 @@ header
 {
     background-color: #ffffff;
     display: flex;
-    height: 90%;
+    height: 200px;
 }
 
 @media(max-width: 1170px)
