@@ -1,3 +1,8 @@
+html
+{
+    scroll-behavior: smooth;
+}
+
 body
 {
     background-color: #C0A1DF;
@@ -123,17 +128,17 @@ header
 
 #titulo
 {
-    max-width: 100%;
+    max-width: 95%;
     background-color: #0000005e;
     height: 10%;
     font-size: 40px;
-    margin-top: 0px;
+    margin:auto;
     color: #ffffff;
     display: flex;
     position: sticky;
     border-radius: 20px;
     padding: 20px;
-    justify-content: center ;
+    justify-content:space-between;
     font-family: arial;
     align-items: center;
     border: solid 5px #000000;
@@ -141,6 +146,7 @@ header
 
 #conteudo
 {
+    margin:auto;
     width: 95%;
     height: 80%;
     background-color: #00000080;
@@ -168,7 +174,7 @@ header
     background-color: rgba(0, 0, 0, 0.171);
     border-radius: 20px;
     padding: 20px;
-    border: solid #78DBFF 5px; 
+    border: solid #000000ec 5px; 
 }
 
 #txt
@@ -179,7 +185,7 @@ header
     font-size: 25px;
     font-family: arial;
     align-self: flex-start;
-    margin-top: 2%;
+    margin-top: 8%;
 }
 
 #aplica
@@ -189,7 +195,12 @@ header
     margin-top: 10%;
     padding: 20px;
     border-radius: 20px;
-    border: solid #78DBFF 5px; 
+    border: solid #000000 5px;
+}
+
+.voltar
+{
+    align-self: flex-end;
 }
 
 @media(max-width: 1170px)
