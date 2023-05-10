@@ -7,6 +7,7 @@ main
 {
     margin-bottom: 100px;
     z-index:-1;
+    min-height: 100%;
 }
 
 #topo
@@ -120,6 +121,78 @@ header
     height: auto;
 }
 
+#titulo
+{
+    max-width: 100%;
+    background-color: #00000080;
+    height: 10%;
+    font-size: 40px;
+    margin-top: 0px;
+    color: #ffffff;
+    display: flex;
+    position: sticky;
+    border-radius: 20px;
+    padding: 20px;
+    justify-content: center ;
+    font-family: arial;
+    align-items: center;
+    border: solid 5px #000000;
+}
+
+#conteudo
+{
+    width: 95%;
+    height: 80%;
+    background-color: #00000080;
+    border-radius: 20px;    
+    padding: 20px;
+    text-align: center;
+    border: solid 5px #000000;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.con_img
+{
+    max-height: 100%;
+    max-width: 90%;
+    margin: 10px;
+}
+
+#con_img
+{
+    max-height: 40%;
+    max-width: 40%;
+    margin: 10px;
+    background-color: rgba(0, 0, 0, 0.171);
+    border-radius: 20px;
+    padding: 20px;
+    border: solid #78DBFF 5px; 
+}
+
+#txt
+{
+    color:#e6e6e6;
+    max-height: 20%;
+    max-width: 50%;
+    font-size: 25px;
+    font-family: arial;
+    align-self: flex-start;
+    margin-top: 2%;
+}
+
+#aplica
+{
+    background-color: #0000008a;
+    width: 90%;
+    margin-top: 10%;
+    padding: 20px;
+    border-radius: 20px;
+    border: solid #78DBFF 5px; 
+}
+
+
 @media(max-width: 1170px)
     {
         header
@@ -181,3 +254,5 @@ header
         }
 
     }
+
+ 
