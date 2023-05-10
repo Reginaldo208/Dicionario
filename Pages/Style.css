@@ -124,7 +124,7 @@ header
 #titulo
 {
     max-width: 100%;
-    background-color: #00000080;
+    background-color: #0000005e;
     height: 10%;
     font-size: 40px;
     margin-top: 0px;
@@ -191,7 +191,6 @@ header
     border-radius: 20px;
     border: solid #78DBFF 5px; 
 }
-
 
 @media(max-width: 1170px)
     {
