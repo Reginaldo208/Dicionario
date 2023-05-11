@@ -136,7 +136,7 @@ header
     display: flex;
     position: sticky;
     border-radius: 20px;
-    padding: 20px;
+    padding: 5px 20px 5px 20px;
     justify-content:space-between;
     font-family: arial;
     align-items: center;
