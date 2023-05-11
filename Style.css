@@ -5,8 +5,7 @@ html
 
 body
 {
-    background-color: #C0A1DF;
-}
+    background-image: linear-gradient(to right bottom, #f183db, #dc8de6, #c595ed, #af9cef, #9ba2ee, #89acf5, #78b6f8, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);}
 
 main
 {
@@ -69,9 +68,8 @@ header
 
 .nomes
 {
-    max-width: 750px;
+    max-width: 1100px;
     width: 100%;
-    margin-top: 30px;
 }
 
 #dicionario
@@ -94,7 +92,7 @@ header
     min-height: 200px;
     display: flex;
     justify-content: center;
-    background-color: #0000006c;
+    background-color: #0000004b;
     border-radius: 20px;    
     padding: 20px;
     text-align: center;
@@ -106,7 +104,8 @@ header
 #bloco:hover
 {
     translate: -5px -5px;
-    box-shadow: 5px 5px 5px #000000;
+    box-shadow: 5px 5px 5px #0000008a;
+    
 }
 
 .texto
@@ -129,7 +128,7 @@ header
 #titulo
 {
     max-width: 95%;
-    background-color: #0000005e;
+    background-color: #0000004b;
     height: 10%;
     font-size: 40px;
     margin:auto;
@@ -149,7 +148,7 @@ header
     margin:auto;
     width: 95%;
     height: 80%;
-    background-color: #00000080;
+    background-color: #0000004b;
     border-radius: 20px;    
     padding: 20px;
     text-align: center;
@@ -171,7 +170,7 @@ header
     max-height: 40%;
     max-width: 40%;
     margin: 10px;
-    background-color: rgba(0, 0, 0, 0.171);
+    background-color: #00000063;
     border-radius: 20px;
     padding: 20px;
     border: solid #000000ec 5px; 
