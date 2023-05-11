@@ -148,6 +148,7 @@ header
     margin:auto;
     width: 95%;
     height: 80%;
+    min-height: 500px;
     background-color: #0000004b;
     border-radius: 20px;    
     padding: 20px;
@@ -282,4 +283,17 @@ header
         align-self: center;
         text-justify: distribute;
     }
+}
+
+footer
+{
+    color: white;
+    background-color: #000000ec;
+    margin: auto;
+    width: 95%;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+    text-align: center;
 }
