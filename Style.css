@@ -288,7 +288,8 @@ header
 footer
 {
     color: white;
-    background-color: #000000ec;
+    background-color: #000000b4;
+    border: solid #000000 5px;
     margin: auto;
     width: 95%;
     padding: 20px;
