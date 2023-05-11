@@ -265,7 +265,7 @@ header
 
     }
 
-@media(max-width: 950px)
+@media(max-device-height: 750px)
 {
     #conteudo
     {
