@@ -5,7 +5,9 @@ html
 
 body
 {
-    background-image: linear-gradient(to right bottom, #f183db, #dc8de6, #c595ed, #af9cef, #9ba2ee, #89acf5, #78b6f8, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);}
+    background-image: linear-gradient(to right bottom, #f183db, #dc8de6, #c595ed, #af9cef, #9ba2ee, #89acf5, #78b6f8, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    background-size: 100% 200%;
+}
 
 main
 {
