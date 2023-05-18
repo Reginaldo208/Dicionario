@@ -164,7 +164,9 @@ header
 
 .con_img
 {
-    max-height: 100%;
+    min-height: 250px;
+    max-height: 450px;
+    min-width: 250px;
     max-width: 90%;
     margin: 10px;
 }
@@ -188,7 +190,6 @@ header
     font-size: 25px;
     font-family: arial;
     align-self: flex-start;
-    margin-top: 8%;
 }
 
 #aplica
@@ -284,6 +285,8 @@ header
     {
         align-self: center;
         text-justify: distribute;
+        font-size: 35px;
+        
     }
 }
 
