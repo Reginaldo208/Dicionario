@@ -189,7 +189,11 @@ header
     max-width: 50%;
     font-size: 25px;
     font-family: arial;
-    align-self: flex-start;
+    align-self: center;
+    flex-direction: column;
+    justify-items: center;
+    display: flex;
+    position: relative;
 }
 
 #aplica
