@@ -6,7 +6,7 @@ html
 body
 {
     background-image: linear-gradient(to right bottom, #f183db, #dc8de6, #c595ed, #af9cef, #9ba2ee, #89acf5, #78b6f8, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
-    background-size: 100% 200%;
+    background-size: 109% 200%;
 }
 
 main
@@ -112,11 +112,12 @@ header
 
 .texto
 {
-    font-size: 40px;
+    font-size: 26px;
     color: #ffffff;
     font-family: Arial;
     bottom: 5px;
     position: absolute;
+    text-align: center;
 }
 
 .img
@@ -290,7 +291,10 @@ header
         align-self: center;
         text-justify: distribute;
         font-size: 35px;
-        
+    }
+    #texto
+    {
+
     }
 }
 
